@@ -140,16 +140,15 @@ export const services: Service[] = [
 
 export const testimonials: Testimonial[] = [
   {
-    quote:
-      'Joe Boulos blends engineering rigor with artful experience design. Every release feels premium, intentional, and obsessively polished.',
-    name: 'Maya Lin',
-    role: 'Head of Experience, Lumen Labs',
+    quote: 'Hi Joe! Working with you is amazing—you are very professional and dedicated.',
+    name: 'Zeina Slim',
+    role: 'Owner, atozee.agency',
   },
   {
     quote:
-      'From system architecture to micro-animations, the craft level is unmatched. We shipped a flagship product in record time.',
-    name: 'Daniel Kline',
-    role: 'Product Director, Pulse Health',
+      'Joe was incredibly helpful and delivered everything I asked. Anytime I had a request or question, he replied right away!',
+    name: 'Jason Sokhn',
+    role: 'Owner, enemyofthewait.com',
   },
   {
     quote:
